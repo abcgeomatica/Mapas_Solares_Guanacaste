@@ -8,7 +8,7 @@ En conmemoracion del centenario de la incorporacion del Partido de Nicoya a Cost
 
 
 
-![MAPA ORIGINAL](https://github.com/abcgeomatica/guanacaste1924/blob/326ead36c9acbff712124d3dbc2abc6faaf7264f/MapaGuanacaste1924.png)
+![MAPA ORIGINAL](https://github.com/abcgeomatica/Mapas_Solares_Guanacaste/blob/master/Costa-Rica_PVOUT_mid-size-map_lang-ES_156x191mm-300dpi_v20200519.png))
 
 
 
